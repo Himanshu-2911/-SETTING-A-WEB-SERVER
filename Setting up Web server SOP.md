@@ -1,11 +1,17 @@
 # Standard Operating Procedure (SOP): How to Set Up a Windows Server
 
-**Company Name:** Himsha  
+**Company Name:** Himsha 
+
 **Company Address:** 130 Henlow Bay, Manitoba  
+
 **Phone Number:** 204-730-3494 
-**Version:** 1.0  
+
+**Version:** 1
+
 **Written by:** Himanshu  
+
 **Approved by:** Felix 
+
 **Date:** 11/24/2024
 
 ---
